@@ -1,5 +1,14 @@
 # AutoFix Garage – Service Bays API
 
+| S. No. | Student Name   | Roll Number | Individual Contribution                  |
+| ------ | -------------- | ----------- | ---------------------------------------- |
+| 1      | Amara Srividya | 9007        | Server setup and routes                  |
+| 2      | Gurrala Sujith | 9045        | Database creation and queries            |
+| 3      | Golla Ganesh   | 9041        | REST API endpoints                       |
+| 4      | Avula Druvathi | 9014        | Validation and search                    |
+| 5      | Kothapally Haripriya | 9075  | Implemented soft delete and restore functionality for bays|
+| 5      | Chenchu Dinesh | 9024        | Postman testing and README documentation |
+
 ## 1. Project Overview
 
 **AutoFix Garage – Service Bays API** is a backend application developed using Node.js, Express.js, and SQLite.
@@ -24,7 +33,7 @@ S. No. Student Name Roll Number Individual Contribution
 3 Golla Ganesh 9041 REST API endpoints
 4 Avula Druvathi 9014 Validation and search
 5 Chenchu Dinesh 9024 Postman testing and README documentation
-6 Kothapally Hari Priya 9075 Implemented soft delete and restore functionality for bays, hid deleted bays from lists and single-record fetches, and verified Twist Tests 1–3.
+6 Kothapally Hari Priya 9075 Implemented soft delete and restore functionality for bays, hide deleted bays from lists and single-record fetches, and verified Twist Tests 1–3.
 
 ## 4. How to Run the Project
 
