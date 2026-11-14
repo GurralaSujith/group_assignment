@@ -19,11 +19,7 @@ This project provides REST APIs to manage mechanics, service bays, and assignmen
 | 5 | Chenchu Dinesh | 9024 | Postman testing and README documentation |
 | 6 | Kothapally Hari Priya | 9075 | Implemented soft delete and restore functionality for bays, hid deleted bays from lists and single-record fetches, and verified Twist Tests 1–3. |
 
-## 3. Deployment Link
-
-| Platform | Link |
-|---|---|
-| Backend Deployment | [Add Your Render Deployment URL Here](#) |
+## 3. Deployment Link: https://group-assignment-1-5wcv.onrender.com/ 
 
 ## 4. Technologies Used
 
